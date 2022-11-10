@@ -21,7 +21,7 @@ ul{
 }
 .header__nav{
     padding: 25px 0;
-    background: rgb(205, 72, 181);
+    background: black;
 }
 .header__nav-list{
     display: flex;
